@@ -5,6 +5,7 @@
 // This file tests the lab section of your workshop
 // Do not modify this code when submitting
 /////////////////////////////////////////////
+#define _CRT_SECURE_NO_WARNINGS
 #include "Bill.h"
 using namespace seneca;
 int main() {

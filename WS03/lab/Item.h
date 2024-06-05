@@ -1,3 +1,12 @@
+/*
+Name - Mehakdeep Kaur
+Email - m78@myseneca.ca
+Id - 171544216
+Date - 1 - 06 - 24
+
+I have done all the coding by myself and only copied the code that my professor provided to complete my workshops and assignments.
+
+*/
 #ifndef SENECA_ITEM_H_
 #define SENECA_ITEM_H_
 namespace seneca {
